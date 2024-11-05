@@ -1,5 +1,3 @@
-import React from "react";
-
 function PtUpperContent() {
   return (
     <div className="font-bold leading-tight pt-4 pb-8">

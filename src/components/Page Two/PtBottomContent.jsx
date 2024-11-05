@@ -1,4 +1,4 @@
-import { BodyTableRow, HeadTableRow } from "./tableRows";
+import { HeadTableRow, BodyTableRow } from "./tableRows";
 
 function PtBottomContent() {
   return (
